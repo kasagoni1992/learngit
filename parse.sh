@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -x 
 echo -e "This script is used to parse all text files to find ManuMahi \n"
-
+echo ""
 if [ -f temp.txt ]
   then
    rm temp.txt
